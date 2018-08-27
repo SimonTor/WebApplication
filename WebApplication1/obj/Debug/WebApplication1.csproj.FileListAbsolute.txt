@@ -1,0 +1,17 @@
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\David\Documents\Visual Studio 2013\Projects\BM_MUC_2014\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Projekte\Workshop - B&M - WPF mit MVVM\VS Projekte\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\Projekte\Git\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+E:\Projekte\Git\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\Projekte\Git\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\Projekte\Git\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\Projekte\Git\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Projekte\Git\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
